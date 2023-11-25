@@ -1,0 +1,30 @@
+
+           
+        <ul class="more">
+            <li><a href=""></a>Endometriosis</li>
+            <li><a href=""></a>Peripheral Artery Disease</li>
+            <li><a href=""></a>Leukaemia</li>
+            <li><a href=""></a>Low Testosterone</li>
+          </ul>
+          <hr>
+          <ul class="more">
+            <li><a href=""></a>Multiple Sclerosis</li>
+            <li><a href=""></a>DVT</li>
+            <li><a href=""></a>Weight Loss & Obesity</li>
+            <li><a href=""></a>Multiple Myeloma</li>
+          </ul>
+
+          .more{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        /* .condition li{
+            height: 360px;
+            width: 360px;
+            display: block;
+            padding: 3px 22px;
+            margin-top: 20px;
+            margin-left: 13.5%;
+        } */
+            
